@@ -9,7 +9,7 @@ const projects = [
     title: 'Automated Codebase Documentation Generator',
     description:
       'Generates comprehensive documentation for any codebase using LLMs. Supports multi-language repos with smart chunking, vector retrieval (ChromaDB), and structured Markdown output. Deployed with Docker + FastAPI.',
-    tags: ['Python', 'FastAPI', 'CrewAI', 'ChromaDB', 'Docker', 'LLM'],
+    tags: ['Python', 'FastAPI', 'Redis', 'Celery', 'Docker', 'LLM'],
     link: 'https://github.com/Pavitha-07',
   },
   {
@@ -18,7 +18,7 @@ const projects = [
     title: 'LLM Model Router',
     description:
       'Dynamic routing layer that dispatches prompts to the optimal LLM backend (GPT-4, Claude, Groq, Ollama) based on task complexity, latency SLA, and cost budget. Async task queue via Celery + Redis.',
-    tags: ['Python', 'LiteLLM', 'FastAPI', 'Redis', 'Celery', 'Docker'],
+    tags: ['Python', 'FastAPI', 'Redis', 'Celery', 'Docker'],
     link: 'https://github.com/Pavitha-07',
   },
   {
