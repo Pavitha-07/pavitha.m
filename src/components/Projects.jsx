@@ -8,7 +8,7 @@ const projects = [
     num: '01',
     title: 'Automated Codebase Documentation Generator',
     description:
-      'Generates comprehensive documentation for any codebase using LLMs. Supports multi-language repos with smart chunking, vector retrieval (ChromaDB), and structured Markdown output. Deployed with Docker + FastAPI.',
+      'Generates comprehensive documentation for any codebase using LLMs. Supports multi-language repos with smart chunking, vector retrieval, and structured Markdown output. Deployed with Docker + FastAPI.',
     tags: ['Python', 'FastAPI', 'Redis', 'Celery', 'Docker', 'LLM'],
     link: 'https://github.com/Pavitha-07',
   },

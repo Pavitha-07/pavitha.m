@@ -5,9 +5,9 @@ import './About.css';
 const timeline = [
   {
     year: '2024 – Present',
-    title: 'B.Tech Computer Science & Engineering',
+    title: 'B.Tech Computer Science & Business Systems',
     place: 'Rajalakshmi Engineering College, Chennai',
-    detail: 'CGPA: 8.64 · Expected graduation 2027',
+    detail: 'CGPA: 8.64 · Expected graduation 2028',
     icon: '',
   },
   {

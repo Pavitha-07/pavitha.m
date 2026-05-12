@@ -103,7 +103,7 @@ export default function Contact() {
           <button onClick={copyEmail} className="btn-outline contact__copy-btn">
             {copied ? '✓ Copied!' : 'Copy Email'}
           </button>
-          <a href="mailto:pavitha.m2023@gmail.com" className="btn-primary">
+          <a href="mailto:impavitha07@gmail.com" className="btn-primary">
             Send a Message
           </a>
         </motion.div>

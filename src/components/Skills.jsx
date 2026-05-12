@@ -21,7 +21,7 @@ const skillCategories = [
   {
     label: 'Data & AI',
     num: '04',
-    skills: ['LLM Integration', 'Ollama', 'OpenAI API', 'Groq', 'CrewAI'],
+    skills: ['LLM Integration', 'Ollama', 'OpenAI API', 'Groq', 'Claude code'],
   },
   {
     label: 'DevOps & Tools',

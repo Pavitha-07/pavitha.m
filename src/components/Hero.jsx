@@ -32,7 +32,7 @@ export default function Hero() {
 
         {/* Description */}
         <motion.p {...fadeUp(0.32)} className="hero__desc">
-          B.Tech CS undergraduate at Rajalakshmi Engineering College, Chennai.
+          B.Tech CSBS undergraduate at Rajalakshmi Engineering College, Chennai.
           Building production-grade AI systems — LLM orchestration, backend APIs,
           and end-to-end data pipelines.
         </motion.p>
